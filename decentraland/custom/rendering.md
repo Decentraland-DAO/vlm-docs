@@ -1,6 +1,6 @@
 # Custom Rendering & Custom IDs
 
-Custom Rendering and Custom IDs are used together, optionally alongside custom Widgets, to allow developers to have finer control over the loading and manipulation of scene elements. 
+Custom Rendering and Custom IDs are used together, and can be used alongside custom Widgets, to allow developers to have finer control over the loading and manipulation of scene elements. 
 Both Custom Rendering and Custom ID can be set via the properties pane of any material configuration or entity instance.
 
 #### Custom Rendering:
