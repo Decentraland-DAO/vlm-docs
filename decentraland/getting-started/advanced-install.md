@@ -18,7 +18,7 @@ dcl install vlm-dcl
 
 > The **Dependencies** is found by selecting the SDK extension logo. It is underneath the panel that has the **Run Scene** and **Publish Scene** buttons.
 
-> **Feeling totally lost?** *Well...what are you doing in the developer section?* Just kidding. The Metaverse is a great way to learn about open source software development. No gatekeepers here! In fact, good on you for pushing yourself out of your comfort zone! You may just need to take a step back and install Visual Studio Code and the Decentraland SDK extension first. But don't give up yet, you can do this! [See Decentraland's documentation to get started](https://docs.decentraland.org/creator/development-guide/sdk-101/). Join the [VLM Discord server]() if you need more help.
+> **Feeling totally lost?** *Well...what are you doing in the developer section?* Just kidding. The Metaverse is a great way to learn about open source software development. No gatekeepers here! In fact, good on you for pushing yourself out of your comfort zone! You may just need to take a step back and install Visual Studio Code and the Decentraland SDK extension first. But don't give up yet, you can do this! [See Decentraland's documentation to get started](https://docs.decentraland.org/creator/development-guide/sdk-101/). Join the [VLM Discord server](https://discord.gg/hYzxFZmbvf) if you need more help.
 
 ### 2. Add your Scene ID to your scene.json file.
 ```json
