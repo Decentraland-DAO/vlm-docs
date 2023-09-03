@@ -1,32 +1,32 @@
 - Getting started
-  - [Basic Installation](/getting-started/basic-install.md)
-  - [Developer Installation](/getting-started/advanced-install.md)
+  - [Basic Installation](/decentraland/getting-started/basic-install.md)
+  - [Developer Installation](/decentraland/getting-started/advanced-install.md)
 
 - Developer Customizations
-  - [Custom Widgets](/custom/widgets.md)
-  - [Custom Rendering](/custom/rendering.md)
-  - [Custom Analytics](/custom/analytics.md)
-  - [Custom Multiplayer Events](/custom/multiplayer-events.md)
-  - [Custom Scene State](/custom/scene-state.md)
+  - [Custom Widgets](/decentraland/custom/widgets.md)
+  - [Custom Rendering](/decentraland/custom/rendering.md)
+  - [Custom Analytics](/decentraland/custom/analytics.md)
+  - [Custom Multiplayer Events](/decentraland/custom/multiplayer-events.md)
+  - [Custom Scene State](/decentraland/custom/scene-state.md)
 
 - Using VLM.storage
   - Video
-    - [Configuration](/video/config.md)
-    - [Instance](/video/instance.md)
-    - [System](/video/system.md)
+    - [Configuration](/decentraland/video/config.md)
+    - [Instance](/decentraland/video/instance.md)
+    - [System](/decentraland/video/system.md)
 
   - Image
-    - [Configuration](/image/config.md)
-    - [Instance](/image/instance.md)
+    - [Configuration](/decentraland/image/config.md)
+    - [Instance](/decentraland/image/instance.md)
 
   - Widget
-    - [Configuration](/widget/config.md)
+    - [Configuration](/decentraland/widget/config.md)
 
 - Examples
-  - [Custom Widgets](/examples/widgets.md)
-  - [Custom Rendering](/examples/rendering.md)
-  - [Custom Analytics](/examples/analytics.md)
+  - [Custom Widgets](/decentraland/examples/widgets.md)
+  - [Custom Rendering](/decentraland/examples/rendering.md)
+  - [Custom Analytics](/decentraland/examples/analytics.md)
   - Multiplayer Events & Scene State
-    - [Using Custom Scene State](/examples/scene-state.md)
-    - [Using Custom Multiplayer Events](/examples/multiplayer-events.md)
-    - [Multiplayer Scene Events & State](/examples/multiplayer-events-state.md)
+    - [Using Custom Scene State](/decentraland/examples/scene-state.md)
+    - [Using Custom Multiplayer Events](/decentraland/examples/multiplayer-events.md)
+    - [Multiplayer Scene Events & State](/decentraland/examples/multiplayer-events-state.md)
