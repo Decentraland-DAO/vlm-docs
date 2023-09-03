@@ -4,11 +4,11 @@
 
 **How will you be using VLM?**
 
->[Basic Features](getting-started/basic-install.md.md)
+### [Basic Features](/decentraland/getting-started/basic-install.md)
 -
 I don't need to control anything via code.
 
->[Advanced Features](getting-started/advanced-install.md.md)
+### [Advanced Features](/decentraland/getting-started/advanced-install.md)
 -
 I want to use the advanced user features that let me design complex scenes and implement my own controls. (Must enable Advanced User role on your VLM account.)
 

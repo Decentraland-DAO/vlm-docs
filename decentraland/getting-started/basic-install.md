@@ -16,7 +16,7 @@ dcl install vlm-dcl
 1. Hit the **\+** button in top right of the Dependencies panel.\*
 2. When asked, *"Is this a Decentraland library?"* choose **Yes**.
 
-> The **Dependencies** is found by selecting the SDK extension logo. It is underneath the panel that has the **Run Scene** and **Publish Scene** buttons.
+> The **Dependencies Panel** is found by selecting the SDK extension logo. It is underneath the panel that has the **Run Scene** and **Publish Scene** buttons.
 
 > **Still totally lost?** You may need to take a step back and install Visual Studio Code and the Decentraland SDK extension first. [See Decentraland's documentation to get started](https://docs.decentraland.org/creator/development-guide/sdk-101/). Join the [VLM Discord server](https://discord.gg/hYzxFZmbvf) if you need more help.
 
