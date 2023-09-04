@@ -1,6 +1,7 @@
 - Getting started
   - [Basic Installation](/decentraland/getting-started/basic-install.md)
   - [Developer Installation](/decentraland/getting-started/advanced-install.md)
+  - [Migrating from VLM Prototype](/decentraland/getting-started/migration.md)
 
 - Developer Customizations
   - [Custom Widgets](/decentraland/custom/widgets.md)
