@@ -2,12 +2,14 @@ version: '3'
 
 services:
   docsify:
-    build:
-      context: .
-      dockerfile: Dockerfile
-    image: vlm-docs
     container_name: vlm-docs
+    restart: unless-stopped
+    build: .
+    image: vlm-docs
     ports:
       - "3000:3000"
-    volumes:
-      - .:/docs
+
+networks:
+ default:
+  external:
+   name: proxy
