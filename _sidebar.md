@@ -4,4 +4,4 @@
   - [Scene Analytics](/ui/scene-analytics.md)
 
 - Installation and Development
-  - [Decentraland SDK 6](/decentraland/home.md)
+  - [Decentraland SDK 6](/decentraland/sdk6.md)
